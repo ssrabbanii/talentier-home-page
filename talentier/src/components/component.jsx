@@ -263,7 +263,7 @@ export default function Component() {
                 Our Global Talent Network
               </h2>
               <p className="mx-auto max-w-[700px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                Talentier's AI-powered global talent network spans 150+
+                Talentier&apos;s AI-powered global talent network spans 150+
                 countries, connecting you with the best developers, engineers,
                 and professionals worldwide.
               </p>
@@ -314,9 +314,10 @@ export default function Component() {
                     <div className="font-bold">John Doe</div>
                     <div className="text-muted-foreground">CEO, Acme Inc.</div>
                     <div className="prose text-muted-foreground">
-                      "Talentier's AI-powered talent matching has been a
-                      game-changer for our company. We've been able to build
-                      high-performing teams that drive innovation and growth."
+                      &quot;Talentier&apos;s AI-powered talent matching has been
+                      a game-changer for our company. We&apos;ve been able to
+                      build high-performing teams that drive innovation and
+                      growth.&quot;
                     </div>
                   </div>
                 </div>
@@ -329,9 +330,10 @@ export default function Component() {
                     <div className="font-bold">Sarah Mayer</div>
                     <div className="text-muted-foreground">CTO, Startup X</div>
                     <div className="prose text-muted-foreground">
-                      "Talentier's remote work expertise and global talent
-                      network have been invaluable in helping us build a
-                      high-performing distributed team. Highly recommended!"
+                      &quot;Talentier&apos;s remote work expertise and global
+                      talent network have been invaluable in helping us build a
+                      high-performing distributed team. Highly
+                      recommended!&quot;
                     </div>
                   </div>
                 </div>
